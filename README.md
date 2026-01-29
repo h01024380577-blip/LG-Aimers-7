@@ -50,12 +50,6 @@ LG Aimers/
 jupyter notebook Gonjiam_lgbm.ipynb
 ```
 
-3. 최종 제출 파일 생성
-```python
-# Submission_Ensemble.ipynb 실행
-jupyter notebook Submission_Ensemble.ipynb
-```
-
 ## 요구사항
 
 ```
@@ -73,7 +67,3 @@ holidays
 ## 성과
 
 LG Aimers 7기 온라인 해커톤 참여 프로젝트
-
-## 라이선스
-
-MIT License
